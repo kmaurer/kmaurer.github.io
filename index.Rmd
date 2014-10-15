@@ -1,0 +1,24 @@
+---
+title: "Profile"
+author: "Karsten T. Maurer"
+#date: "Monday, October 13, 2014"
+---
+
+![ProfilePicture](images/StockholmSmall.png)
+
+## Who am I?
+
+My name is Karsten Maurer.  I am originally from the Twin Cities area of Minnesota. I am currently a graduate student at Iowa State University. I love teaching undergraduate statistics. My research interests are in the fields of statistics education and statistical graphics.
+
+## Interests
+
+* Rock Climbing
+* Ultimate Frisbee
+* Camping
+* Hiking
+* Relaxing at the cabin
+
+## Curriculum Vitae
+
+[CV pdf](documents/KarstenMaurerCV.pdf)
+
