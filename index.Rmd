@@ -10,7 +10,7 @@ author: "Karsten T. Maurer"
 
 My name is Karsten Maurer.  I am originally from the Twin Cities area of Minnesota. I am currently a graduate student at Iowa State University. I love teaching undergraduate statistics. My research interests are in the fields of statistics education and statistical graphics.
 
-## Interests
+## Interests Outside Academia
 
 * Rock Climbing
 * Ultimate Frisbee
