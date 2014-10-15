@@ -13,9 +13,13 @@ output:
 
 My name is Karsten Maurer.  I am originally from the Twin Cities area of Minnesota. I am currently a graduate student at Iowa State University. I love teaching undergraduate statistics. My research interests are in the fields of statistics education and statistical graphics.
 
-## [Curriculum Vitae](documents/KarstenMaurerCV.pdf)
+## Documents
 
+ **[Curriculum Vitae](documents/KarstenMaurerCV.pdf)**
 
+ **[Teaching Philosophy](documents/TeachingPhilosophy.pdf)**
+
+ **[Research Statement](documents/ResearchStatement.pdf)**
 
 ## Hobbies
 
