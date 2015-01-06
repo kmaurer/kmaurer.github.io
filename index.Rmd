@@ -31,6 +31,9 @@ My name is Karsten Maurer.  I am originally from the Twin Cities area of Minneso
 
   *[Comparison of Learning Outcomes for Randomization-Based and Traditional Inference Curricula in a Designed Educational Experiment](documents/MaurerOsthusLoy-submission1.pdf)* (submitted to TISE 09/12/14)
 
+## Misc.
+
+  *Invited CAUSEweb Blog Post: [Are introductory statistics students ready to be laced up for the bootstrap?](https://www.causeweb.org/sbi/?p=564)
 
 ## Hobbies
 
