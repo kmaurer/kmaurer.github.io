@@ -11,7 +11,7 @@ output:
 
 ## Who am I?
 
-My name is Karsten Maurer.  I am originally from the Twin Cities area of Minnesota. I am currently a graduate student at Iowa State University. I am an instructor for undergraduate statistics courses and I love the challenge that teaching provides. My research interests are in the fields of statistics education and statistical graphics.  
+My name is Karsten Maurer.  I am originally from the Twin Cities area of Minnesota. I am currently an assistant professor of statistics at Miami University in Oxford, Ohio. I completed my doctoral degree in statistics at Iowa State University. My research interests are in the fields of statistics education and statistical graphics.  
 
 ## Documents
 
@@ -43,5 +43,7 @@ My name is Karsten Maurer.  I am originally from the Twin Cities area of Minneso
 * [Hiking](images/zion.png)
 * Wood Carving
 
+## Quick Data Host
+ **[Airfares.csv](documents/Airfares.csv)**
 
 
