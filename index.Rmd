@@ -44,6 +44,9 @@ My name is Karsten Maurer.  I am originally from the Twin Cities area of Minneso
 * Wood Carving
 
 ## Quick Data Host
+
  **[Airfares.csv](documents/Airfares.csv)**
+ 
+ **[StateStats.csv](documents/StateStats.csv)**
 
 
