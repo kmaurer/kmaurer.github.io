@@ -43,7 +43,7 @@ My name is Karsten Maurer.  I am originally from the Twin Cities area of Minneso
 * [Hiking](images/zion.png)
 * Wood Carving
 
-## Quick Data Host
+## Quick Data Host for STA 404
 
  **[DelaysDec2014.Rdata](documents/DelaysDec2014.Rdata)**
 
@@ -62,3 +62,5 @@ My name is Karsten Maurer.  I am originally from the Twin Cities area of Minneso
  **[StateStatsBRFSS.csv](documents/StateStatsBRFSS.csv)**
 
  **[nasadata.csv](documents/nasadata.csv)**
+ 
+ **[baseball.csv](documents/baseball.csv)**
