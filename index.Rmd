@@ -50,7 +50,6 @@ My name is Karsten Maurer.  I am originally from the Twin Cities area of Minneso
 
 
 ## Quick Data Host
-## Quick Data Host for STA 404
 
  **[DelaysDec2014.Rdata](documents/DelaysDec2014.Rdata)**
 
