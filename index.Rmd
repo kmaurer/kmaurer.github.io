@@ -50,11 +50,26 @@ My name is Karsten Maurer.  I am originally from the Twin Cities area of Minneso
 
 
 ## Quick Data Host
+## Quick Data Host for STA 404
 
+ **[DelaysDec2014.Rdata](documents/DelaysDec2014.Rdata)**
+
+ **[nycCabsSample2014Dec.Rdata](documents/nycCabsSample2014Dec.Rdata)**
+
+ **[OHbrfss2012.csv](documents/OHbrfss2012.csv)**
+
+ **[StateCountyFIPS.csv](documents/StateCountyFIPS.csv)**
+ 
+ **[OhioWeatherStations2013.csv](documents/OhioWeatherStations2013.csv)**
+ 
  **[pitchingSample.csv](documents/pitchingSample.csv)**
 
  **[Airfares.csv](documents/Airfares.csv)**
  
  **[StateStatsBRFSS.csv](documents/StateStatsBRFSS.csv)**
-
+ 
+ **[StateStatsBRFSSMessy.csv](documents/StateStatsBRFSSMessy.csv)**
+ 
  **[nasadata.csv](documents/nasadata.csv)**
+ 
+ **[baseball.csv](documents/baseball.csv)**
