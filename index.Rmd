@@ -43,6 +43,12 @@ My name is Karsten Maurer.  I am originally from the Twin Cities area of Minneso
 * [Hiking](images/zion.png)
 * Wood Carving
 
+
+## Data Science Night Slides and Code
+
+ **[DataWrangling.html](documents/DataWrangling.html)**
+
+
 ## Quick Data Host
 
  **[pitchingSample.csv](documents/pitchingSample.csv)**
