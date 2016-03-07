@@ -48,6 +48,9 @@ My name is Karsten Maurer.  I am originally from the Twin Cities area of Minneso
 
  **[DataWrangling.html](documents/DataWrangling.html)**
 
+ **[ggplot2Intro.pdf](documents/ggplot2Intro.pdf)**
+ 
+ **[ggplot2Intro.R](documents/ggplot2Intro.R)**
 
 ## Quick Data Host
 
