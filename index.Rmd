@@ -23,13 +23,13 @@ My name is Karsten Maurer.  I am originally from the Twin Cities area of Minneso
 
 ## Publications
 
+  *[Comparison of Learning Outcomes for Randomization-Based and Traditional Inference Curricula in a Designed Educational Experiment](http://escholarship.org/uc/item/0wm523b0)*
+
   *[Self Selection Does Not Increase Other-Regarding Preferences among Adult Laboratory Subjects, but Student Subjects May Be More Self-Regarding than Adults](documents/SelfSelectionPaperMorrisTandT.pdf)*
 
 ## Submitted Manuscripts
 
   *[Tale of Four Cities: Exploring the Soul of State College, Detroit, Millidgeville and Biloxi](documents/MaurerOsthusLoy-submission1.pdf)* (submitted to COST 06/13/14)
-
-  *[Comparison of Learning Outcomes for Randomization-Based and Traditional Inference Curricula in a Designed Educational Experiment](documents/MaurerOsthusLoy-submission1.pdf)* (submitted to TISE 09/12/14)
 
 ## Misc.
 
@@ -42,7 +42,7 @@ My name is Karsten Maurer.  I am originally from the Twin Cities area of Minneso
 * [Camping](images/camping.png)
 * [Hiking](images/zion.png)
 * Wood Carving
-
+* Vegetable Gardening
 
 ## Data Science Night Slides and Code
 
@@ -75,3 +75,6 @@ My name is Karsten Maurer.  I am originally from the Twin Cities area of Minneso
  **[nasadata.csv](documents/nasadata.csv)**
  
  **[baseball.csv](documents/baseball.csv)**
+
+ **[SLahman_Batting2014.csv](documents/SLahman_Batting2014.csv)** 
+ 
