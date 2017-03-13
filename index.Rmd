@@ -54,6 +54,10 @@ My name is Karsten Maurer.  I am originally from the Twin Cities area of Minneso
 
 ## Quick Data Host
 
+ **[Pitching2014.csv](documents/Pitching2014.csv)**
+ 
+ **[batting.Rdata](documents/batting.Rdata)**
+ 
  **[DelaysDec2014.Rdata](documents/DelaysDec2014.Rdata)**
 
  **[nycCabsSample2014Dec.Rdata](documents/nycCabsSample2014Dec.Rdata)**
