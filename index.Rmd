@@ -7,7 +7,7 @@ output:
     theme: cosmo
 ---
 
-![ProfilePicture](images/StockholmSmall.png)
+![](images/StockholmSmall.png)
 
 ## Who am I?
 
@@ -24,6 +24,8 @@ My name is Karsten Maurer.  I am originally from the Twin Cities area of Minneso
 ## Publications
 
   *[Comparison of Learning Outcomes for Randomization-Based and Traditional Inference Curricula in a Designed Educational Experiment](http://escholarship.org/uc/item/0wm523b0)*
+
+  *[Examining the Effect of Proctoring on Online Test Scores](https://olj.onlinelearningconsortium.org/index.php/olj/article/view/885)*
 
   *[Self Selection Does Not Increase Other-Regarding Preferences among Adult Laboratory Subjects, but Student Subjects May Be More Self-Regarding than Adults](documents/SelfSelectionPaperMorrisTandT.pdf)*
 
