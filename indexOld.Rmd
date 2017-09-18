@@ -1,0 +1,88 @@
+---
+title: "Profile"
+author: "Karsten T. Maurer"
+#date: "Monday, October 13, 2014"
+output: 
+  html_document:
+    theme: cosmo
+---
+
+![](images/StockholmSmall.png)
+
+## Who am I?
+
+My name is Karsten Maurer.  I am originally from the Twin Cities area of Minnesota. I am currently an assistant professor of statistics at Miami University in Oxford, Ohio. I completed my doctoral degree in statistics at Iowa State University. My research interests are in the fields of statistics education and statistical graphics.  
+
+## Documents
+
+ **[Curriculum Vitae](documents/KarstenMaurerCV.pdf)**
+
+ **[Teaching Philosophy](documents/KarstenMaurerTeachPhil.pdf)**
+
+ **[Research Statement](documents/KarstenMaurerResearchStatement.pdf)**
+
+## Publications
+
+  *[Comparison of Learning Outcomes for Randomization-Based and Traditional Inference Curricula in a Designed Educational Experiment](http://escholarship.org/uc/item/0wm523b0)*
+
+  *[Examining the Effect of Proctoring on Online Test Scores](https://olj.onlinelearningconsortium.org/index.php/olj/article/view/885)*
+
+  *[Self Selection Does Not Increase Other-Regarding Preferences among Adult Laboratory Subjects, but Student Subjects May Be More Self-Regarding than Adults](documents/SelfSelectionPaperMorrisTandT.pdf)*
+
+## Submitted Manuscripts
+
+  *[Tale of Four Cities: Exploring the Soul of State College, Detroit, Millidgeville and Biloxi](documents/MaurerOsthusLoy-submission1.pdf)* (submitted to COST 06/13/14)
+
+## Misc.
+
+  *Invited CAUSEweb Blog Post: [Are introductory statistics students ready to be laced up for the bootstrap?](https://www.causeweb.org/sbi/?p=564)
+
+## Hobbies
+
+* Rock Climbing
+* Ultimate Frisbee
+* [Camping](images/camping.png)
+* [Hiking](images/zion.png)
+* Wood Carving
+* Vegetable Gardening
+
+## Data Science Night Slides and Code
+
+ **[DataWrangling.html](documents/DataWrangling.html)**
+
+ **[ggplot2Intro.pdf](documents/ggplot2Intro.pdf)**
+ 
+ **[ggplot2Intro.R](documents/ggplot2Intro.R)**
+
+## Quick Data Host
+
+ **[pitching_careers.csv](documents/pitching_careers.csv)**
+
+ **[Pitching2014.csv](documents/Pitching2014.csv)**
+ 
+ **[batting.Rdata](documents/batting.Rdata)**
+ 
+ **[DelaysDec2014.Rdata](documents/DelaysDec2014.Rdata)**
+
+ **[nycCabsSample2014Dec.Rdata](documents/nycCabsSample2014Dec.Rdata)**
+
+ **[OhioBRFSS2015.csv](documents/OhioBRFSS2015.csv)**
+
+ **[StateCountyFIPS.csv](documents/StateCountyFIPS.csv)**
+ 
+ **[OhioWeatherStations2013.csv](documents/OhioWeatherStations2013.csv)**
+ 
+ **[pitchingSample.csv](documents/pitchingSample.csv)**
+
+ **[Airfares.csv](documents/Airfares.csv)**
+ 
+ **[StateStatsBRFSS.csv](documents/StateStatsBRFSS.csv)**
+ 
+ **[StateStatsBRFSSMessy.csv](documents/StateStatsBRFSSMessy.csv)**
+ 
+ **[nasadata.csv](documents/nasadata.csv)**
+ 
+ **[baseball.csv](documents/baseball.csv)**
+
+ **[SLahman_Batting2014.csv](documents/SLahman_Batting2014.csv)** 
+ 
