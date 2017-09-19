@@ -1,0 +1,35 @@
+---
+title: "CV"
+output: 
+  html_document:
+    theme: cosmo
+---
+
+## Documents
+
+* **[Curriculum Vitae](documents/KarstenMaurerCV.pdf)**
+* **[Teaching Philosophy](documents/KarstenMaurerTeachPhil.pdf)**
+* **[Research Statement](documents/KarstenMaurerResearchStatement.pdf)**
+
+## Publications
+
+*  *[Comparison of Learning Outcomes for Randomization-Based and Traditional Inference Curricula in a Designed Educational Experiment](http://escholarship.org/uc/item/0wm523b0)* (Alessio, Malay, Maurer, Bailer, Rubin, 2017)
+*  *[Examining the Effect of Proctoring on Online Test Scores](https://olj.onlinelearningconsortium.org/index.php/olj/article/view/885)* (Maurer, Lock, 2016)
+*  *[Self-selection and variations in the laboratory measurement of other-regarding preferences across subject pools: evidence from one college student and two adultsamples](https://link.springer.com/article/10.1007/s10683-012-9327-7)* (Anderson, Burks, Carpenter, Goette, Maurer, Nosenzo, Potter, Rocha, Rustichini, 2013)
+
+
+## Submitted Manuscripts
+
+*  *Interaction of Proctoring and Student Major on Online Test Performance* 
+(Alessio, Malay, Maurer, Bailer, Rubin)
+*  *Examining the Impact on Mortality Arising from Climate Change: Important Findings for the Insurance Industry*
+(Miljkovic, Miljkovic, Maurer)
+
+
+## Works in Progress
+
+*  *Bin-Weighted Stacked Ensemble Classifiers*
+*  *Iterative Quantile Nearest Neighbors*
+*  *Visual Information Loss with Binned Scatterplots*
+*  *Tactile Learning with Dice Games for Linear Combinations of Random Variables*
+

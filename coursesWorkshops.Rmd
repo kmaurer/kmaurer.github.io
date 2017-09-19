@@ -1,0 +1,46 @@
+---
+title: "Courses/Workshops"
+output: 
+  html_document:
+    theme: cosmo
+---
+
+## Data Science Night Slides and Code
+
+ **[DataWrangling.html](documents/DataWrangling.html)**
+
+ **[ggplot2Intro.pdf](documents/ggplot2Intro.pdf)**
+
+ **[ggplot2Intro.R](documents/ggplot2Intro.R)**
+ 
+## Quick Access Datasets for Classes
+
+ **[Airfares.csv](documents/Airfares.csv)**
+
+ **[baseball.csv](documents/baseball.csv)**
+ 
+ **[batting.Rdata](documents/batting.Rdata)**
+
+ **[DelaysDec2014.Rdata](documents/DelaysDec2014.Rdata)**
+
+ **[nasadata.csv](documents/nasadata.csv)**
+
+ **[nycCabsSample2014Dec.Rdata](documents/nycCabsSample2014Dec.Rdata)**
+
+ **[OhioBRFSS2015.csv](documents/OhioBRFSS2015.csv)**
+
+ **[OhioWeatherStations2013.csv](documents/OhioWeatherStations2013.csv)**
+ 
+ **[pitching_careers.csv](documents/pitching_careers.csv)**
+
+ **[pitchingSample.csv](documents/pitchingSample.csv)**
+
+ **[Pitching2014.csv](documents/Pitching2014.csv)**
+
+ **[SLahman_Batting2014.csv](documents/SLahman_Batting2014.csv)**
+
+ **[StateCountyFIPS.csv](documents/StateCountyFIPS.csv)**
+
+ **[StateStatsBRFSS.csv](documents/StateStatsBRFSS.csv)**
+
+ **[StateStatsBRFSSMessy.csv](documents/StateStatsBRFSSMessy.csv)**
