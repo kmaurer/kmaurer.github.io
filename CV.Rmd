@@ -17,6 +17,13 @@ output:
 *  *[Examining the Effect of Proctoring on Online Test Scores](http://escholarship.org/uc/item/0wm523b0)* (Maurer, Lock, 2016)
 *  *[Self-selection and variations in the laboratory measurement of other-regarding preferences across subject pools: evidence from one college student and two adultsamples](https://link.springer.com/article/10.1007/s10683-012-9327-7)* (Anderson, Burks, Carpenter, Goette, Maurer, Nosenzo, Potter, Rocha, Rustichini, 2013)
 
+## Presentations
+*  JSM 2017 - **[Bin-Weighted Ensemble Classifiers](documents/JSM2017.pdf)**
+*  JSM 2016 - **[Traditional vs. Simulation-Based: Curricula Comparison in a Small Scale Educational Experiment](documents/JSM2016.pdf)** 
+*  JSM 2014 - **[Comparison of Learning Outcomes from Traditional and Randomization-Based Inference Curricula in a Designed Experiment](documents/JSM2014.pdf)**
+*  ICOTS 2014 - **[A Shiny New Opportunity for Big Data in Statistics Education](documents/ICOTS2014.pdf)**
+*  JSM 2013 - **[A Tale of Four Cities: Exploring the Soul of Biloxi, Detroit, Milledgeville, and State College](documents/JSM2013.pdf)**
+*  JSM 2011 - **[Using R to Constuct a Graphical User Interface for an Interactive Fitness Log](documents/JSM2011.pdf)**
 
 ## Submitted Manuscripts
 
