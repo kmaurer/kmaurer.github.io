@@ -17,7 +17,9 @@ My name is Karsten Maurer.  I am originally from the Twin Cities area of Minneso
 ## Hobbies
 
 * [Vegetable Gardening](images/garden.png)
+* [Board Gaming](images/boardgames.png)
 * Rock Climbing
+* Broomball
 * [Hiking](images/zion.png)
 * Ultimate Frisbee
 * [Camping](images/camping.png)
