@@ -5,6 +5,14 @@ output:
     theme: cosmo
 ---
 
+## Red Carpet - Bridges 
+
+ **[RedCarpetDay-Bridges-Talk-TitanicHandout.pdf](documents/RedCarpetDay-Bridges-Talk-TitanicHandout.pdf)**
+
+ **[Data-visualization-exploration.R](documents/Data-visualization-exploration.R)**
+
+ **[Data-visualization-exploration.txt](documents/Data-visualization-exploration.txt)**
+
 ## Data Science Night Slides and Code
 
  **[DataWrangling.html](documents/DataWrangling.html)**
