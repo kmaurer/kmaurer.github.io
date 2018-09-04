@@ -51,6 +51,8 @@ output:
 
  **[realestate.csv](documents/realestate.csv)**
 
+ **[shuffled_playlist.csv](documents/shuffled_playlist.csv)**
+
  **[SLahman_Batting2016.csv](documents/SLahman_Batting2016.csv)**
 
  **[StateCountyFIPS.csv](documents/StateCountyFIPS.csv)**
