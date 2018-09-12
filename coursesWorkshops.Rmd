@@ -51,7 +51,7 @@ output:
 
  **[realestate.csv](documents/data/realestate.csv)**
 
- **[shuffled_playlist.csv](documents/data/shuffled_playlist.csv)**
+ **[shuffled_playlist.csv](documents/shuffled_playlist.csv)**
 
  **[SLahman_Batting2016.csv](documents/SLahman_Batting2016.csv)**
 
