@@ -8,8 +8,8 @@ output:
 ## Documents
 
 * **[Curriculum Vitae](documents/KarstenMaurerCV.pdf)**
-* **[Teaching Philosophy](documents/KarstenMaurerTeachPhil.pdf)**
-* **[Research Statement](documents/KarstenMaurerResearchStatement.pdf)**
+<!-- * **[Teaching Philosophy](documents/KarstenMaurerTeachPhil.pdf)** -->
+<!-- * **[Research Statement](documents/KarstenMaurerResearchStatement.pdf)** -->
 
 ## Publications
 
