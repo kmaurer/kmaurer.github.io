@@ -27,36 +27,36 @@ output:
  
 ## Quick Access Datasets for Classes
 
- **[Airfares.csv](documents/Airfares.csv)**
+ **[Airfares.csv](documents/data/Airfares.csv)**
 
- **[baseball.csv](documents/baseball.csv)**
+ **[baseball.csv](documents/data/baseball.csv)**
  
- **[batting.Rdata](documents/batting.Rdata)**
+ **[batting.Rdata](documents/data/batting.Rdata)**
 
- **[DelaysDec2014.Rdata](documents/DelaysDec2014.Rdata)**
+ **[DelaysDec2014.Rdata](documents/data/DelaysDec2014.Rdata)**
 
- **[nasadata.csv](documents/nasadata.csv)**
+ **[nasadata.csv](documents/data/nasadata.csv)**
 
- **[nycCabsSample2014Dec.Rdata](documents/nycCabsSample2014Dec.Rdata)**
+ **[nycCabsSample2014Dec.Rdata](documents/data/nycCabsSample2014Dec.Rdata)**
 
- **[ohioBRFSS2016.csv](documents/ohioBRFSS2016.csv)**
+ **[ohioBRFSS2016.csv](documents/data/ohioBRFSS2016.csv)**
 
- **[OhioWeatherStations2013.csv](documents/OhioWeatherStations2013.csv)**
+ **[OhioWeatherStations2013.csv](documents/data/OhioWeatherStations2013.csv)**
  
- **[pitching_careers.csv](documents/pitching_careers.csv)**
+ **[pitching_careers.csv](documents/data/pitching_careers.csv)**
 
- **[pitchingSample.csv](documents/pitchingSample.csv)**
+ **[pitchingSample.csv](documents/data/pitchingSample.csv)**
 
- **[Pitching2014.csv](documents/Pitching2014.csv)**
+ **[Pitching2014.csv](documents/data/Pitching2014.csv)**
 
- **[realestate.csv](documents/realestate.csv)**
+ **[realestate.csv](documents/data/realestate.csv)**
 
- **[shuffled_playlist.csv](documents/shuffled_playlist.csv)**
+ **[shuffled_playlist.csv](documents/data/shuffled_playlist.csv)**
 
- **[SLahman_Batting2016.csv](documents/SLahman_Batting2016.csv)**
+ **[SLahman_Batting2016.csv](documents/data/SLahman_Batting2016.csv)**
 
- **[StateCountyFIPS.csv](documents/StateCountyFIPS.csv)**
+ **[StateCountyFIPS.csv](documents/data/StateCountyFIPS.csv)**
 
- **[StateStatsBRFSS.csv](documents/StateStatsBRFSS.csv)**
+ **[StateStatsBRFSS.csv](documents/data/StateStatsBRFSS.csv)**
 
- **[StateStatsBRFSSMessy.csv](documents/StateStatsBRFSSMessy.csv)**
+ **[StateStatsBRFSSMessy.csv](documents/data/StateStatsBRFSSMessy.csv)**
