@@ -12,7 +12,10 @@ output:
 
 My name is Karsten Maurer.  I am originally from the Twin Cities area of Minnesota. I am now an assistant professor of statistics at Miami University in Oxford, Ohio. I completed my doctoral degree in statistics at Iowa State University. My research interests are in the fields of predictive modeling, data visualization and statistics education.  
 
+## What classes do I mostly teach?
 
+* STA 404/504 - Advanced Data Visualization
+* STA 467/567 - Statistical Learning
  
 ## Hobbies
 
