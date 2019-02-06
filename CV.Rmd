@@ -22,21 +22,14 @@ output:
 *  *[Examining the Effect of Proctoring on Online Test Scores](http://escholarship.org/uc/item/0wm523b0)* (Maurer, Lock, 2016)
 *  *[Self-selection and variations in the laboratory measurement of other-regarding preferences across subject pools: evidence from one college student and two adultsamples](https://link.springer.com/article/10.1007/s10683-012-9327-7)* (Anderson, Burks, Carpenter, Goette, Maurer, Nosenzo, Potter, Rocha, Rustichini, 2013)
 
-## In Press
-
-* *[The Impact of Video Proctoring in Online Courses](documents/papers/AlessioMaurerProctoring.pdf)* (Alessio and Maurer, 2018)
-* *Interaction of Proctoring and Student Major on Online Test Performance* (Alessio, Malay, Maurer, Bailer, Rubin, 2018)
-*  *[Examining the Impact on Mortality Arising from Climate Change: Important Findings for the Insurance Industry](documents/papers/CATMortality_projectEAJ_FINAL.pdf)*
-(Miljkovic, Miljkovic, Maurer, 2018)
 
 ## Submitted Manuscripts
 
-*  *[Content Audit for P-value Principles in Introductory Statistics](documents/papers/TASPvalueAuditSecondRevision.pdf)*
-(Karsten Maurer, Lynette Hudiburgh, Lisa Werwinski, John Bailer, 2018)
 *  *[Facility Locations Utility for Uncovering Classifier Overconfidence](documents/papers/MaurerBennetteAAAI.pdf)*
 (Karsten Maurer,  Walter Bennette, 2018)
 
 ## Presentations
+*  JSM 2018 - **Iterative Quantile Nearest Neighbors**
 *  JSM 2017 - **[Bin-Weighted Ensemble Classifiers](documents/conferences/JSM2017.pdf)**
 *  JSM 2016 - **[Traditional vs. Simulation-Based: Curricula Comparison in a Small Scale Educational Experiment](documents/conferences/JSM2016.pdf)** 
 *  JSM 2014 - **[Comparison of Learning Outcomes from Traditional and Randomization-Based Inference Curricula in a Designed Experiment](documents/conferences/JSM2014.pdf)**
