@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -88,8 +90,14 @@ img {
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -105,7 +113,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -125,6 +132,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -146,18 +190,77 @@ $(document).ready(function () {
 });
 </script>
 
-
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
 </script>
 
 <!-- code folding -->
-
 
 
 
@@ -207,6 +310,12 @@ $(document).ready(function () {
 <div id="publications" class="section level2">
 <h2>Publications</h2>
 <ul>
+<li><em><a href="https://www.tandfonline.com/toc/utas20/current">Content Audit for P-value Principles in Introductory Statistics (In-Press: The American Statistician)</a></em> (Maurer K. Hudiburgh L., Werwinski L., Bailer A.J., 2019)</li>
+<li><em><a href="https://link.springer.com/epdf/10.1007/s00180-018-00863-x?author_access_token=N0GW9Uj-8Jrt72Lb3em0D_e4RwlQNchNByi7wbcMAY7uBPRsrLmeTb896xXQHbgLPTBcIH24Z2vemKbresc_EdEmV7S09WEUrW030Eibbhc48JfQO2VYCbgu5VVF0U86DplAw0GM19N00Ma7cM3ojw%3D%3D">A tale of four cities: exploring the soul of State College,Detroit, Milledgeville and Biloxi</a></em> (Maurer K. Osthus D., Loy A., 2019)</li>
+<li><em><a href="https://eric.ed.gov/?id=EJ1195526">The Impact of Video Proctoring in Online Courses</a></em> (Alessio H., Maurer K., 2018)</li>
+<li><em><a href="https://www.theoj.org/joss-papers/joss.01096/10.21105.joss.01096.pdf">ggvoronoi: Voronoi Diagrams and Heatmaps with ggplot2</a></em> (Garrett R., Nar A., Fisher T., Maurer K., 2018)</li>
+<li><em><a href="http://www.irrodl.org/index.php/irrodl/article/view/3698/4843">Interaction of Proctoring and Student Major on Online Test Performance</a></em> (Alessio H., Malay N., Maurer K., Bailer J., Rubin B., 2018)</li>
+<li><em><a href="https://link.springer.com/article/10.1007/s13385-018-0178-2">Examining the Impact on Mortality Arising from Climate Change: Important Findings for the Insurance Industry</a></em> (Miljkovic T., Miljkovic D., Maurer K., 2018)</li>
 <li><em><a href="https://olj.onlinelearningconsortium.org/index.php/olj/article/view/885">Comparison of Learning Outcomes for Randomization-Based and Traditional Inference Curricula in a Designed Educational Experiment</a></em> (Alessio, Malay, Maurer, Bailer, Rubin, 2017)</li>
 <li><em><a href="http://escholarship.org/uc/item/0wm523b0">Examining the Effect of Proctoring on Online Test Scores</a></em> (Maurer, Lock, 2016)</li>
 <li><em><a href="https://link.springer.com/article/10.1007/s10683-012-9327-7">Self-selection and variations in the laboratory measurement of other-regarding preferences across subject pools: evidence from one college student and two adultsamples</a></em> (Anderson, Burks, Carpenter, Goette, Maurer, Nosenzo, Potter, Rocha, Rustichini, 2013)</li>
