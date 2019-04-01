@@ -5,6 +5,7 @@ output:
     theme: cosmo
 ---
 
+
 ## Web Resources For Data Viz and Stat Learning Students
 
  **[R for Data Science -- Free e-Book](https://r4ds.had.co.nz/)**
@@ -28,7 +29,7 @@ output:
 
  **[DataScienceNights.R](documents/DataScienceNights.R)**
 
- **[December2017FlightDelays.csv](documents/December2017FlightDelays.csv)**
+ **[December2017FlightDelays.csv](documents/data/December2017FlightDelays.csv)**
  
  **[DataWrangling.html](documents/DataWrangling.html)**
 
