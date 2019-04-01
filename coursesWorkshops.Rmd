@@ -31,6 +31,10 @@ output:
 
  **[December2017FlightDelays.csv](documents/data/December2017FlightDelays.csv)**
  
+ **[December2017Weather.Rdata](documents/data/December2017Weather.Rdata)**
+ 
+ **[WeatherStationsUSA.csv](documents/data/WeatherStationsUSA.csv)**
+ 
  **[DataWrangling.html](documents/DataWrangling.html)**
 
  **[ggplot2Intro.pdf](documents/ggplot2Intro.pdf)**
