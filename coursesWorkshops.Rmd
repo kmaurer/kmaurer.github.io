@@ -27,6 +27,8 @@ output:
 
 ## Data Science Night Slides and Code
 
+ **[DataScienceNights_blank.R](documents/DataScienceNights_blank.R)**
+
  **[DataScienceNights.R](documents/DataScienceNights.R)**
 
  **[December2017FlightDelays.csv](documents/data/December2017FlightDelays.csv)**
