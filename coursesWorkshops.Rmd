@@ -31,7 +31,7 @@ output:
 
  **[December2017FlightDelays.csv](documents/data/December2017FlightDelays.csv)**
  
- **[December2017Weather.Rdata](documents/data/December2017Weather.Rdata)**
+ **[December2017Weather.RData](documents/data/December2017Weather.RData)**
  
  **[WeatherStationsUSA.csv](documents/data/WeatherStationsUSA.csv)**
  
