@@ -13,9 +13,6 @@ output:
  **[Advanced R -- Free e-book](http://adv-r.had.co.nz/)**
 
  **[An Introduction to Statistical Learning -- Author Website with book pdf ](http://www-bcf.usc.edu/~gareth/ISL/)**
- 
- **[Datacamp - Coding Tutorial Platform](https://www.datacamp.com)**
- 
 
 ## Red Carpet - Bridges 
 
