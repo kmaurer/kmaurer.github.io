@@ -7,7 +7,7 @@ output:
 
 **[Live code file](https://docs.google.com/document/d/11tTeVhv5v9YjRu8SGHGvJRPy0bo1OyuSpZq-Hl-P-UY/edit?usp=sharing)**
 
- **[December2017Weather.RData](documents/data/flightApp.RData)**
+ **[flightApp.RData](documents/data/flightApp.RData)**
 
 ## Web Resources For Data Viz and Stat Learning Students
 
