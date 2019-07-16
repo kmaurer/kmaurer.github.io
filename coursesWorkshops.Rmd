@@ -5,6 +5,9 @@ output:
     theme: cosmo
 ---
 
+**[Live code file](https://docs.google.com/document/d/11tTeVhv5v9YjRu8SGHGvJRPy0bo1OyuSpZq-Hl-P-UY/edit?usp=sharing)**
+
+ **[flightApp.RData](documents/data/flightApp.RData)**
 
 ## Web Resources For Data Viz and Stat Learning Students
 
@@ -13,9 +16,6 @@ output:
  **[Advanced R -- Free e-book](http://adv-r.had.co.nz/)**
 
  **[An Introduction to Statistical Learning -- Author Website with book pdf ](http://www-bcf.usc.edu/~gareth/ISL/)**
- 
- **[Datacamp - Coding Tutorial Platform](https://www.datacamp.com)**
- 
 
 ## Red Carpet - Bridges 
 
