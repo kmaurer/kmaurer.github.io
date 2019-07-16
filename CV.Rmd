@@ -26,7 +26,15 @@ output:
 ## Submitted Manuscripts
 
 *  *[Facility Locations Utility for Uncovering Classifier Overconfidence](documents/papers/MaurerBennetteAAAI.pdf)*
-(Karsten Maurer,  Walter Bennette, 2018)
+(Maurer, Bennette, 2019)
+*  *Iterative Quantile Nearest Neighbors*
+(Maurer, 2019)
+*  *What Do Students Gain from Games? Dice Games vs. Word Problems*
+(Maurer, Hudiburgh, Werwinski, 2019)
+*  *A shiny Opportunity to Interact with Large Databases in Introductory Statistics*
+(Maurer, Hofmann, 2019)
+*  *Harnessing Adversarial Distances Uncovering Classifier Overconfidence*
+(Bennette, Maurer, 2019)
 
 ## Presentations
 *  JSM 2018 - **Iterative Quantile Nearest Neighbors**
@@ -38,10 +46,15 @@ output:
 *  JSM 2011 - **[Using R to Constuct a Graphical User Interface for an Interactive Fitness Log](documents/conferences/JSM2011.pdf)**
 
 
-## Works in Progress
+## Works in Progress Toward Publication
 
+*  *[Student Project] Lady Tasting Tea Lineup Plots for Visual Inference*
+*  *[Student Project] Embedding Initalization for Image Classification in an Active Learning Framework*
+*  *[Student Project] Applications of Voronoi Tesselations*
+*  *[Student Project] Evaluating Instructor vs Publisher Created Homework Sets*
+*  *[Statistical Consulting] Beaver Dam Meta-Analysis*
+*  *[Statistical Consulting] Baby Food Evaluation of IDDSI Standards*
+*  *[Statistical Consulting] Eye-Tracking Analysis of Webpage Designs*
 *  *Bin-Weighted Stacked Ensemble Classifiers*
-*  *Iterative Quantile Nearest Neighbors*
-*  *Visual Information Loss with Binned Scatterplots*
-*  *Tactile Learning with Dice Games for Linear Combinations of Random Variables*
+
 
