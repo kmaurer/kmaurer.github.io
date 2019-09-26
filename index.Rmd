@@ -21,12 +21,12 @@ My name is Karsten Maurer.  I am originally from the Twin Cities area of Minneso
 
 * [Vegetable Gardening](images/garden.png)
 * [Board Gaming](images/boardgames.png)
-* Rock Climbing
-* Broomball
+* [Broomball](images/broomball.jpg)
 * [Hiking](images/zion.png)
 * [Ultimate Frisbee](images/Ultimate.jpg)
 * [Camping](images/camping.png)
 * [Wood Carving](images/carving.png)
+* Rock Climbing
 
 
 
