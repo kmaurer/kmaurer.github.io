@@ -24,7 +24,7 @@ My name is Karsten Maurer.  I am originally from the Twin Cities area of Minneso
 * Rock Climbing
 * Broomball
 * [Hiking](images/zion.png)
-* Ultimate Frisbee
+* [Ultimate Frisbee](images/ultimate.png)
 * [Camping](images/camping.png)
 * [Wood Carving](images/carving.png)
 
