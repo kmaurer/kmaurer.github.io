@@ -22,6 +22,16 @@ output:
 *  *[Examining the Effect of Proctoring on Online Test Scores](http://escholarship.org/uc/item/0wm523b0)* (Maurer, Lock, 2016)
 *  *[Self-selection and variations in the laboratory measurement of other-regarding preferences across subject pools: evidence from one college student and two adultsamples](https://link.springer.com/article/10.1007/s10683-012-9327-7)* (Anderson, Burks, Carpenter, Goette, Maurer, Nosenzo, Potter, Rocha, Rustichini, 2013)
 
+## Presentations
+*  JSM 2019 - **['Lady Tasting Tea' Lineups for Visual Inference](documents/conferences/JSM2019.pdf)**
+*  ECOTS 2018 - **[Fantasy Basketball for Statistical Learning](documents/conferences/ECOTS2018.mp4)**
+*  JSM 2018 - **[Iterative Quantile Nearest Neighbors](documents/conferences/JSM2018.pdf)**
+*  JSM 2017 - **[Bin-Weighted Ensemble Classifiers](documents/conferences/JSM2017.pdf)**
+*  JSM 2016 - **[Traditional vs. Simulation-Based: Curricula Comparison in a Small Scale Educational Experiment](documents/conferences/JSM2016.pdf)** 
+*  JSM 2014 - **[Comparison of Learning Outcomes from Traditional and Randomization-Based Inference Curricula in a Designed Experiment](documents/conferences/JSM2014.pdf)**
+*  ICOTS 2014 - **[A Shiny New Opportunity for Big Data in Statistics Education](documents/conferences/ICOTS2014.pdf)**
+*  JSM 2013 - **[A Tale of Four Cities: Exploring the Soul of Biloxi, Detroit, Milledgeville, and State College](documents/conferences/JSM2013.pdf)**
+*  JSM 2011 - **[Using R to Constuct a Graphical User Interface for an Interactive Fitness Log](documents/conferences/JSM2011.pdf)**
 
 ## Submitted Manuscripts
 
@@ -38,14 +48,6 @@ output:
 *  *[Student Project] Comparing Instructor Created vs. Externally Created Homework Assignments And Their Effects On Exam Scores*
 (Swart, Hudiburgh, Maurer and Smucker, 2019)
 
-## Presentations
-*  JSM 2018 - **Iterative Quantile Nearest Neighbors**
-*  JSM 2017 - **[Bin-Weighted Ensemble Classifiers](documents/conferences/JSM2017.pdf)**
-*  JSM 2016 - **[Traditional vs. Simulation-Based: Curricula Comparison in a Small Scale Educational Experiment](documents/conferences/JSM2016.pdf)** 
-*  JSM 2014 - **[Comparison of Learning Outcomes from Traditional and Randomization-Based Inference Curricula in a Designed Experiment](documents/conferences/JSM2014.pdf)**
-*  ICOTS 2014 - **[A Shiny New Opportunity for Big Data in Statistics Education](documents/conferences/ICOTS2014.pdf)**
-*  JSM 2013 - **[A Tale of Four Cities: Exploring the Soul of Biloxi, Detroit, Milledgeville, and State College](documents/conferences/JSM2013.pdf)**
-*  JSM 2011 - **[Using R to Constuct a Graphical User Interface for an Interactive Fitness Log](documents/conferences/JSM2011.pdf)**
 
 
 ## Works in Progress Toward Publication
