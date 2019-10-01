@@ -1,29 +1,38 @@
 ---
 title: "CV"
+header-includes: \usepackage{graphicx}
 output: 
   html_document:
     theme: cosmo
 ---
-```{r voronoiportrait, cache=T, fig.width=1.5, fig.height=1.5, units="in",out.width=300, out.height=300, echo=FALSE, warning=FALSE, error=FALSE}
-# inspired by amazing use of ggvoronoi at http://mfviz.com/r-image-art/
-library(imager)  
-library(tidyverse)
-library(ggvoronoi) 
-# clean and grab sample of pixels 
-set.seed(12345)
-img_df_sample <- load.image(file = "images/Jamaica.jpg") %>%
-  as.data.frame() %>%
-  spread(key = "cc", value="value") %>%
-  mutate(color=rgb(`1`,`2`,`3`)) %>%
-  sample_frac(.02)
-# make voronoi art
-ggplot() +
-  geom_voronoi(aes(x=-x,y=-y,fill=color),
-             data=img_df_sample)+
-  scale_fill_identity() +
-  scale_x_continuous(limits = c(-600,0)) +
-  scale_y_continuous(limits = c(-600,0)) +
-  theme_void()
+```{r voronoiportrait, cache=T, fig.width=1.5, fig.height=1.5, eval=FALSE,units="in",out.width=300, out.height=300, echo=FALSE, warning=FALSE, error=FALSE}
+# # inspired by amazing use of ggvoronoi at http://mfviz.com/r-image-art/
+# library(imager)
+# library(tidyverse)
+# library(ggvoronoi)
+# # clean and grab sample of pixels
+# set.seed(12345)
+# img_df_sample <- load.image(file = "images/Jamaica.jpg") %>%
+#   as.data.frame() %>%
+#   spread(key = "cc", value="value") %>%
+#   mutate(color=rgb(`1`,`2`,`3`)) %>%
+#   sample_frac(.02)
+# # make voronoi art
+# ggplot() +
+#   geom_voronoi(aes(x=-x,y=-y,fill=color),
+#              data=img_df_sample)+
+#   scale_fill_identity() +
+#   scale_x_continuous(limits = c(-600,0)) +
+#   scale_y_continuous(limits = c(-600,0)) +
+#   theme_void()
+# ggsave("VoronoiProfileSmall.png", width=1.2,height=1.2,units="in", dpi=600)
+```
+
+```{r, echo=FALSE, out.width=300, out.height=300}
+library(png)
+library(grid)
+img <- readPNG("images/VoronoiProfileSmall.png")
+ grid.raster(img)
 ```
 
 <!-- ![](images/VoronoiProfileSmall.png) -->
