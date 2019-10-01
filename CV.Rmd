@@ -4,7 +4,7 @@ output:
   html_document:
     theme: cosmo
 ---
-```{r voronoiportrait, cache=T, fig.width=1.5, fig.height=1.5, units="in",out.width=300, out.height=300, echo=FALSE}
+```{r voronoiportrait, cache=T, fig.width=1.5, fig.height=1.5, units="in",out.width=300, out.height=300, echo=FALSE, warning=FALSE, error=FALSE}
 # inspired by amazing use of ggvoronoi at http://mfviz.com/r-image-art/
 library(imager)  
 library(tidyverse)
