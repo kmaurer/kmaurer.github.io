@@ -1,8 +1,0 @@
----
-title: "presentations"
-output: 
-  html_document:
-    theme: cosmo
----
-
-**[JSM2019](documents/Lady Tasting Tea Lineups.html)**
