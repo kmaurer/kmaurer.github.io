@@ -5,9 +5,11 @@ output:
     theme: cosmo
 ---
 
+## Teaching Demo
+
 **[Live code file](https://docs.google.com/document/d/11tTeVhv5v9YjRu8SGHGvJRPy0bo1OyuSpZq-Hl-P-UY/edit?usp=sharing)**
 
- **[flightApp.RData](documents/data/flightApp.RData)**
+ **[oxford_houses.csv](documents/data/oxford_houses.csv)**
 
 ## Web Resources For Data Viz and Stat Learning Students
 
