@@ -102,3 +102,23 @@ anim <- animate( p1 +
   transition_states(k) )
 anim
 
+###-----------------------------------
+# So what size for K is best?
+# Need to evaluate predictive accuracy for different neighborhood sizes
+
+# Decide on 10-fold cross validation
+CV_knn_reg <- caret::train(sale_price ~ std_sqft + std_lot,
+                    data=real_estate, 
+                    method="knn",
+                    trControl=trainControl(method="cv",number=10),
+                    tuneGrid = data.frame(k=1:100))
+CV_knn_reg
+CV_knn_reg$bestTune
+CV_knn_reg$finalModel
+
+# There are suggestions that 22-nearest neighbors are needed for best accuracy
+# We see that it acheives a CV-RMSE value of $59900...  not great
+
+# The next steps would be to consider what additional input variables could 
+# be added to better predict prices
+
