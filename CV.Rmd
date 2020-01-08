@@ -43,6 +43,10 @@ img <- readPNG("images/VoronoiProfileSmall.png")
 
 ## Publications
 
+*  *[Facility Locations Utility for Uncovering Classifier Overconfidence](documents/papers/MaurerBennetteAAAI.pdf)*
+(Maurer, Bennette, 2019 -- Accepted, In Print -- Won **Best Short Paper** at ICMLA 2019!)
+*  *What Do Students Gain from Games? Dice Games vs. Word Problems*
+(Maurer, Hudiburgh, Werwinski, 2019 -- Accepted, In Print)
 *  *[Content Audit for P-value Principles in Introductory Statistics](https://www.tandfonline.com/doi/full/10.1080/00031305.2018.1537890)* (Maurer K. Hudiburgh L., Werwinski L., Bailer A.J., 2019)
 *  *[A tale of four cities: exploring the soul of State College,Detroit, Milledgeville and Biloxi](https://link.springer.com/epdf/10.1007/s00180-018-00863-x?author_access_token=N0GW9Uj-8Jrt72Lb3em0D_e4RwlQNchNByi7wbcMAY7uBPRsrLmeTb896xXQHbgLPTBcIH24Z2vemKbresc_EdEmV7S09WEUrW030Eibbhc48JfQO2VYCbgu5VVF0U86DplAw0GM19N00Ma7cM3ojw%3D%3D)* (Maurer K. Osthus D., Loy A., 2019)
 *  *[The Impact of Video Proctoring in Online Courses](https://eric.ed.gov/?id=EJ1195526)* (Alessio H., Maurer K., 2018)
@@ -66,12 +70,8 @@ img <- readPNG("images/VoronoiProfileSmall.png")
 
 ## Submitted Manuscripts
 
-*  *[Facility Locations Utility for Uncovering Classifier Overconfidence](documents/papers/MaurerBennetteAAAI.pdf)*
-(Maurer, Bennette, 2019 -- Accepted pending minor revision!)
 *  *Iterative Quantile Nearest Neighbors*
 (Maurer, 2019)
-*  *What Do Students Gain from Games? Dice Games vs. Word Problems*
-(Maurer, Hudiburgh, Werwinski, 2019)
 *  *A shiny Opportunity to Interact with Large Databases in Introductory Statistics*
 (Maurer, Hofmann, 2019)
 *  *Harnessing Adversarial Distances Uncovering Classifier Overconfidence*

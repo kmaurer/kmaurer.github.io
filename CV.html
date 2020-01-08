@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -83,7 +84,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -244,18 +244,6 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -319,6 +307,8 @@ $(document).ready(function () {
 <div id="publications" class="section level2">
 <h2>Publications</h2>
 <ul>
+<li><em><a href="documents/papers/MaurerBennetteAAAI.pdf">Facility Locations Utility for Uncovering Classifier Overconfidence</a></em> (Maurer, Bennette, 2019 – Accepted, In Print – Won <strong>Best Short Paper</strong> at ICMLA 2019!)</li>
+<li><em>What Do Students Gain from Games? Dice Games vs. Word Problems</em> (Maurer, Hudiburgh, Werwinski, 2019 – Accepted, In Print)</li>
 <li><em><a href="https://www.tandfonline.com/doi/full/10.1080/00031305.2018.1537890">Content Audit for P-value Principles in Introductory Statistics</a></em> (Maurer K. Hudiburgh L., Werwinski L., Bailer A.J., 2019)</li>
 <li><em><a href="https://link.springer.com/epdf/10.1007/s00180-018-00863-x?author_access_token=N0GW9Uj-8Jrt72Lb3em0D_e4RwlQNchNByi7wbcMAY7uBPRsrLmeTb896xXQHbgLPTBcIH24Z2vemKbresc_EdEmV7S09WEUrW030Eibbhc48JfQO2VYCbgu5VVF0U86DplAw0GM19N00Ma7cM3ojw%3D%3D">A tale of four cities: exploring the soul of State College,Detroit, Milledgeville and Biloxi</a></em> (Maurer K. Osthus D., Loy A., 2019)</li>
 <li><em><a href="https://eric.ed.gov/?id=EJ1195526">The Impact of Video Proctoring in Online Courses</a></em> (Alessio H., Maurer K., 2018)</li>
@@ -347,9 +337,7 @@ $(document).ready(function () {
 <div id="submitted-manuscripts" class="section level2">
 <h2>Submitted Manuscripts</h2>
 <ul>
-<li><em><a href="documents/papers/MaurerBennetteAAAI.pdf">Facility Locations Utility for Uncovering Classifier Overconfidence</a></em> (Maurer, Bennette, 2019 – Accepted pending minor revision!)</li>
 <li><em>Iterative Quantile Nearest Neighbors</em> (Maurer, 2019)</li>
-<li><em>What Do Students Gain from Games? Dice Games vs. Word Problems</em> (Maurer, Hudiburgh, Werwinski, 2019)</li>
 <li><em>A shiny Opportunity to Interact with Large Databases in Introductory Statistics</em> (Maurer, Hofmann, 2019)</li>
 <li><em>Harnessing Adversarial Distances Uncovering Classifier Overconfidence</em> (Bennette, Maurer, 2019)</li>
 <li><em>[Student Project] Comparing Instructor Created vs. Externally Created Homework Assignments And Their Effects On Exam Scores</em> (Swart, Hudiburgh, Maurer and Smucker, 2019)</li>
@@ -385,6 +373,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
