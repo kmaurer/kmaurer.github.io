@@ -43,7 +43,7 @@ img <- readPNG("images/VoronoiProfileSmall.png")
 
 ## Publications
 
-*  *[Facility Locations Utility for Uncovering Classifier Overconfidence](documents/papers/MaurerBennetteAAAI.pdf)*
+*  *[Facility Locations Utility for Uncovering Classifier Overconfidence](documents/papers/MaurerBennetteICMLA.pdf)*
 (Maurer, Bennette, 2019 -- Accepted, In Print -- Won **Best Short Paper** at ICMLA 2019!)
 *  *What Do Students Gain from Games? Dice Games vs. Word Problems*
 (Maurer, Hudiburgh, Werwinski, 2019 -- Accepted, In Print)
