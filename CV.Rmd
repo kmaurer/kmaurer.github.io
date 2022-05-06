@@ -78,16 +78,14 @@ img <- readPNG("images/VoronoiProfileSmall.png")
 *  JSM 2013 - **[A Tale of Four Cities: Exploring the Soul of Biloxi, Detroit, Milledgeville, and State College](documents/conferences/JSM2013.pdf)**
 *  JSM 2011 - **[Using R to Constuct a Graphical User Interface for an Interactive Fitness Log](documents/conferences/JSM2011.pdf)**
 
-## Submitted Manuscripts
+<!-- ## Submitted Manuscripts -->
 
-*  *Iterative Quantile Nearest Neighbors*
-(Maurer, 2019)
-*  *A shiny Opportunity to Interact with Large Databases in Introductory Statistics*
-(Maurer, Hofmann, 2019)
-*  *Harnessing Adversarial Distances Uncovering Classifier Overconfidence*
-(Bennette, Maurer, 2019)
-*  *[Student Project] Comparing Instructor Created vs. Externally Created Homework Assignments And Their Effects On Exam Scores*
-(Swart, Hudiburgh, Maurer and Smucker, 2019)
+<!-- *  *Iterative Quantile Nearest Neighbors* -->
+<!-- (Maurer, 2019) -->
+<!-- *  *A shiny Opportunity to Interact with Large Databases in Introductory Statistics* -->
+<!-- (Maurer, Hofmann, 2019) -->
+<!-- *  *[Student Project] Comparing Instructor Created vs. Externally Created Homework Assignments And Their Effects On Exam Scores* -->
+<!-- (Swart, Hudiburgh, Maurer and Smucker, 2019) -->
 
 
 
