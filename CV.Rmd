@@ -5,7 +5,7 @@ output:
   html_document:
     theme: cosmo
 ---
-```{r voronoiportrait, cache=T, fig.width=1.5, fig.height=1.5, eval=FALSE,units="in",out.width=300, out.height=300, echo=FALSE, warning=FALSE, error=FALSE}
+```{r voronoiportrait, cache=T, fig.width=1.5, fig.height=1.5, eval=FALSE,units="in",out.width=300, out.height=300, echo=FALSE, warning=FALSE, error=FALSE, eval = FALSE}
 # # inspired by amazing use of ggvoronoi at http://mfviz.com/r-image-art/
 # library(imager)
 # library(tidyverse)
@@ -28,7 +28,7 @@ output:
 # ggsave("VoronoiProfileSmall.png", width=1.2,height=1.2,units="in", dpi=600)
 ```
 
-```{r, echo=FALSE, out.width=300, out.height=300}
+```{r, echo=FALSE, out.width=300, out.height=300, message=FALSE}
 library(png)
 library(grid)
 img <- readPNG("images/VoronoiProfileSmall.png")
@@ -43,13 +43,21 @@ img <- readPNG("images/VoronoiProfileSmall.png")
 
 ## Publications
 
-*  *[Facility Locations Utility for Uncovering Classifier Overconfidence](documents/papers/MaurerBennetteICMLA.pdf)*
-(Maurer, Bennette, 2019 -- Accepted, In Print -- Won **Best Short Paper** at ICMLA 2019!)
-*  *What Do Students Gain from Games? Dice Games vs. Word Problems*
-(Maurer, Hudiburgh, Werwinski, 2019 -- Accepted, In Print)
-*  *[Content Audit for P-value Principles in Introductory Statistics](https://www.tandfonline.com/doi/full/10.1080/00031305.2018.1537890)* (Maurer K. Hudiburgh L., Werwinski L., Bailer A.J., 2019)
-*  *[A tale of four cities: exploring the soul of State College,Detroit, Milledgeville and Biloxi](https://link.springer.com/epdf/10.1007/s00180-018-00863-x?author_access_token=N0GW9Uj-8Jrt72Lb3em0D_e4RwlQNchNByi7wbcMAY7uBPRsrLmeTb896xXQHbgLPTBcIH24Z2vemKbresc_EdEmV7S09WEUrW030Eibbhc48JfQO2VYCbgu5VVF0U86DplAw0GM19N00Ma7cM3ojw%3D%3D)* (Maurer K. Osthus D., Loy A., 2019)
-*  *[The Impact of Video Proctoring in Online Courses](https://eric.ed.gov/?id=EJ1195526)* (Alessio H., Maurer K., 2018)
+
+*  *[Generalized Adversarial Distances to Efficiently Discover Classifier Errors](https://arxiv.org/pdf/2102.12844.pdf)* 
+(Bennette, Dufek, Maurer, Sisti, Tusmatov, 2020)*  
+*  *[Harnessing Adversarial Distances to Discover High-Confidence Errors](https://arxiv.org/pdf/2006.16055.pdf)* 
+(Bennette, Maurer, Sisti, 2020)
+*  *[What Do Students Gain from Games? Dice Games vs. Word Problems](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/test.12214)*
+(Maurer, Hudiburgh, Werwinski, 2020)*  
+*[Facility Locations Utility for Uncovering Classifier Overconfidence](documents/papers/MaurerBennetteICMLA.pdf)*
+(Maurer, Bennette, 2019 -- Won **Best Short Paper** at ICMLA 2019!)
+*  *[Content Audit for P-value Principles in Introductory Statistics](https://www.tandfonline.com/doi/full/10.1080/00031305.2018.1537890)* 
+(Maurer K. Hudiburgh L., Werwinski L., Bailer A.J., 2019)
+*  *[A tale of four cities: exploring the soul of State College,Detroit, Milledgeville and Biloxi](https://link.springer.com/epdf/10.1007/s00180-018-00863-x?author_access_token=N0GW9Uj-8Jrt72Lb3em0D_e4RwlQNchNByi7wbcMAY7uBPRsrLmeTb896xXQHbgLPTBcIH24Z2vemKbresc_EdEmV7S09WEUrW030Eibbhc48JfQO2VYCbgu5VVF0U86DplAw0GM19N00Ma7cM3ojw%3D%3D)* 
+(Maurer K. Osthus D., Loy A., 2019)
+*  *[The Impact of Video Proctoring in Online Courses](https://eric.ed.gov/?id=EJ1195526)* 
+(Alessio H., Maurer K., 2018)
 *  *[ggvoronoi: Voronoi Diagrams and Heatmaps with ggplot2](https://www.theoj.org/joss-papers/joss.01096/10.21105.joss.01096.pdf)* (Garrett R., Nar A., Fisher T., Maurer K., 2018)
 *  *[Interaction of Proctoring and Student Major on Online Test Performance](http://www.irrodl.org/index.php/irrodl/article/view/3698/4843)* (Alessio H., Malay N., Maurer K., Bailer J., Rubin B., 2018)
 *  *[Examining the Impact on Mortality Arising from Climate Change: Important Findings for the Insurance Industry](https://link.springer.com/article/10.1007/s13385-018-0178-2)* (Miljkovic T., Miljkovic D., Maurer K., 2018)
@@ -86,11 +94,6 @@ img <- readPNG("images/VoronoiProfileSmall.png")
 ## Works in Progress Toward Publication
 
 *  *[Student Project] Lady Tasting Tea Lineup Plots for Visual Inference*
-*  *[Student Project] Embedding Initalization for Image Classification in an Active Learning Framework*
-*  *[Student Project] Applications of Voronoi Tesselations*
 *  *[Statistical Consulting] Beaver Dam Meta-Analysis*
-*  *[Statistical Consulting] Baby Food Evaluation of IDDSI Standards*
-*  *[Statistical Consulting] Eye-Tracking Analysis of Webpage Designs*
-*  *Bin-Weighted Stacked Ensemble Classifiers*
 
 

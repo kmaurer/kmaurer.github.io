@@ -10,7 +10,7 @@ output:
 
 ## Who am I?
 
-My name is Karsten Maurer. I live in the Twin Cities and I am a Senior Data Scientist at General Mills. I completed my doctoral degree in statistics at Iowa State University. I spent five years as a Professor of Statistics at Miami University before my current role; researching topics in predictive modeling, data visualization and statistics education.  
+My name is Karsten Maurer. I live in the Twin Cities and I am a Lead Data Scientist at General Mills; working to identify and align data science methodologies to strategic revenue management business applications. I completed my doctoral degree in statistics at Iowa State University. I then spent five years as a Professor of Statistics at Miami University before my current role; researching topics in machine learning, data visualization and statistics education.  
 
 ## Areas of Professional Strength?
 
