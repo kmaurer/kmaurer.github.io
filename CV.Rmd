@@ -50,7 +50,7 @@ img <- readPNG("images/VoronoiProfileSmall.png")
 (Bennette, Maurer, Sisti, 2020)
 *  *[What Do Students Gain from Games? Dice Games vs. Word Problems](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/test.12214)*
 (Maurer, Hudiburgh, Werwinski, 2020)*  
-*[Facility Locations Utility for Uncovering Classifier Overconfidence](documents/papers/MaurerBennetteICMLA.pdf)*
+*  *[Facility Locations Utility for Uncovering Classifier Overconfidence](documents/papers/MaurerBennetteICMLA.pdf)*
 (Maurer, Bennette, 2019 -- Won **Best Short Paper** at ICMLA 2019!)
 *  *[Content Audit for P-value Principles in Introductory Statistics](https://www.tandfonline.com/doi/full/10.1080/00031305.2018.1537890)* 
 (Maurer K. Hudiburgh L., Werwinski L., Bailer A.J., 2019)
