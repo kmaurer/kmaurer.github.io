@@ -61,8 +61,8 @@ img <- readPNG("images/VoronoiProfileSmall.png")
 *  *[ggvoronoi: Voronoi Diagrams and Heatmaps with ggplot2](https://www.theoj.org/joss-papers/joss.01096/10.21105.joss.01096.pdf)* (Garrett R., Nar A., Fisher T., Maurer K., 2018)
 *  *[Interaction of Proctoring and Student Major on Online Test Performance](http://www.irrodl.org/index.php/irrodl/article/view/3698/4843)* (Alessio H., Malay N., Maurer K., Bailer J., Rubin B., 2018)
 *  *[Examining the Impact on Mortality Arising from Climate Change: Important Findings for the Insurance Industry](https://link.springer.com/article/10.1007/s13385-018-0178-2)* (Miljkovic T., Miljkovic D., Maurer K., 2018)
-*  *[Comparison of Learning Outcomes for Randomization-Based and Traditional Inference Curricula in a Designed Educational Experiment](https://olj.onlinelearningconsortium.org/index.php/olj/article/view/885)* (Alessio, Malay, Maurer, Bailer, Rubin, 2017)
-*  *[Examining the Effect of Proctoring on Online Test Scores](http://escholarship.org/uc/item/0wm523b0)* (Maurer, Lock, 2016)
+*  *[Examining the Effect of Proctoring on Online Test Scores](https://olj.onlinelearningconsortium.org/index.php/olj/article/view/885)* (Alessio, Malay, Maurer, Bailer, Rubin, 2017)
+*  *[Comparison of Learning Outcomes for Randomization-Based and Traditional Inference Curricula in a Designed Educational Experiment](http://escholarship.org/uc/item/0wm523b0)* (Maurer, Lock, 2016)
 *  *[Self-selection and variations in the laboratory measurement of other-regarding preferences across subject pools: evidence from one college student and two adultsamples](https://link.springer.com/article/10.1007/s10683-012-9327-7)* (Anderson, Burks, Carpenter, Goette, Maurer, Nosenzo, Potter, Rocha, Rustichini, 2013)
 
 ## Presentations
